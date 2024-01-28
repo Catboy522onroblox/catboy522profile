@@ -61,7 +61,7 @@ Vice President, Head of Human Resources (Staffing), Former Head of Public Relati
 {% endembed %}
 
 {% embed url="https://www.roblox.com/groups/14200862/Roxwell-Middle-School" %}
-Principal, Public Relations Overseer, Staffing Lead @ Roxwell Middle School
+Principal, Public Relations Overseer, Staffing Lead @ Riverdale Middle School
 {% endembed %}
 
 {% embed url="https://www.roblox.com/groups/5353222/Seasonal-Studios-Entertainment" %}
