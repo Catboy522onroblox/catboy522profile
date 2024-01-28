@@ -1,24 +1,13 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Catboy522's Profile](README.md)
 
-## Overview
+## About me
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 About me](about-me/about-me.md)
+* [✨ Experience](about-me/experience.md)
 
-## Product Guides
+## Development
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [📪 My github things](development/my-github-things.md)
+* [Roblox Development](development/roblox-development.md)
