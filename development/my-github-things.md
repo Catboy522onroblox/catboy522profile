@@ -8,3 +8,5 @@ Profile: [https://github.com/Catboy522onroblox](https://github.com/Catboy522onro
 Script to make a plugin with Basic Admin Essentials. More information on the github.
 {% endembed %}
 
+[https://github.com/Catboy522onroblox/catboy522profile](https://github.com/Catboy522onroblox/catboy522profile) - this website is open sourced
+
